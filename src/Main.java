@@ -13,7 +13,7 @@ public class Main {
 		cc.depositar(1000);
 		cc.transferir(200, poupanca);
 		
-		double valor = 1000;
+		double valor = 800;
 		double percentual = 15.0 / 100;
 		double valor_final = valor + (percentual * valor);
 		
